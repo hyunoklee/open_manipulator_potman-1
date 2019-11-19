@@ -40,15 +40,18 @@ There is 9 mode, You can control by PC( terminal of key_command.launch ) or phon
 ### 0. Start Pour
 Click image to link to YouTube video.   
 [![Video Label](http://img.youtube.com/vi/TuQmHOsT_p8/0.jpg)](https://youtu.be/TuQmHOsT_p8?t=0s)   
+[![Video Label](http://img.youtube.com/vi/TuQmHOsT_p8/0.jpg)](https://youtu.be/TuQmHOsT_p8?t=0s)  
 
 ### 1. Start cheers ( Picking cup & Cup tracking )
 Click image to link to YouTube video.   
 [![Video Label](http://img.youtube.com/vi/rtBZDF8icJw/0.jpg)](https://youtu.be/rtBZDF8icJw?t=0s)   
+[![Video Label](http://img.youtube.com/vi/esYlpivZYQo/0.jpg)](https://youtu.be/esYlpivZYQo?t=0s)   
 
 ### 2. Stop cheers ( Realease Cup )   
 ### 3. Serve Food    
 Click image to link to YouTube video.   
 [![Video Label](http://img.youtube.com/vi/dL8CXf71Wz4/0.jpg)](https://youtu.be/dL8CXf71Wz4?t=0s)   
+[![Video Label](http://img.youtube.com/vi/Kr8EuuMiMAU/0.jpg)](https://youtu.be/Kr8EuuMiMAU?t=0s)   
 
 ### 4. Start Phone ( PICKING phone & face tracking )   
 Click image to link to YouTube video.   
@@ -69,3 +72,13 @@ roslaunch open_manipulator_potman key_command.launch
 ``` 
 Click image to link to YouTube video.   
 [![Video Label](http://img.youtube.com/vi/u4CAUhD-lkU/0.jpg)](https://youtu.be/u4CAUhD-lkU?t=0s)  
+
+## How to make movement file ( fixed movement by file )  
+0. Start Pour and 3. Serve Food  is fixed movement by file.   
+0. Start Pour use https://github.com/minwoominwoominwoo7/open_manipulator_potman/blob/master/cfg/output_pour.txt   
+3. Serve Food use https://github.com/minwoominwoominwoo7/open_manipulator_potman/blob/master/cfg/output_serve.txt   
+you can make movement file by open_manipulator_save_and_load   
+https://github.com/minwoominwoominwoo7/open_manipulator_save_and_load   
+
+[![Video Label](http://img.youtube.com/vi/PH-7JwGH9uM/0.jpg)](https://youtu.be/PH-7JwGH9uM?t=0s)    
+
