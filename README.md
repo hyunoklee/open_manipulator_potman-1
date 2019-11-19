@@ -39,8 +39,7 @@ roslaunch open_manipulator_potman key_command.launch
 There is 9 mode, You can control by PC( terminal of key_command.launch ) or phone ( voice control or button )   
 ### 0. Start Pour
 Click image to link to YouTube video.   
-[![Video Label](http://img.youtube.com/vi/TuQmHOsT_p8/0.jpg)](https://youtu.be/TuQmHOsT_p8?t=0s)   
-[![Video Label](http://img.youtube.com/vi/TuQmHOsT_p8/0.jpg)](https://youtu.be/TuQmHOsT_p8?t=0s)  
+[![Video Label](http://img.youtube.com/vi/TuQmHOsT_p8/0.jpg)](https://youtu.be/TuQmHOsT_p8?t=0s)    
 
 ### 1. Start cheers ( Picking cup & Cup tracking )
 Click image to link to YouTube video.   
