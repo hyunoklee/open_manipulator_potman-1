@@ -1,3 +1,5 @@
+### GIT Preparing, Not Complete  
+
 ## Description 
 Open manipulator application pacakges.
 2019 R-BIZ ROBOTIS Open Manipulator Challenge. 
@@ -5,7 +7,7 @@ Auturbo team potman
 
 ## HW Block Diagram 
 <img src="/picture/1.PNG" width="100%" height="100%">  
-# GIT Preparing, Not Complete
+
 
 ## SW Block Diagram 
 <img src="/picture/2.PNG" width="100%" height="100%">  
