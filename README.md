@@ -13,8 +13,32 @@ Auturbo team potman
 <img src="/picture/2.PNG" width="100%" height="100%">  
 
 ## PC Setting  
-1. 
+### 0.open manipulator setting   
+http://emanual.robotis.com/docs/en/platform/openmanipulator_x/ros_setup/#install-ros-packages   
+
+### 1.D435 realsense package install  
+http://emanual.robotis.com/docs/en/platform/openmanipulator_x/ros_applications/#installation-1   
+
+### 2.JSK package install   
 ```bash
+$ sudo apt-get install ros-kinetic-jsk-recognition
+$ sudo apt-get install ros-kinetic-jsk-topic-tools
+$ sudo apt-get install ros-kinetic-libsiftfast
+$ sudo apt-get install ros-kinetic-laser-assembler
+$ sudo apt-get install ros-kinetic-octomap-server
+$ sudo apt-get install ros-kinetic-nodelet
+$ sudo apt-get install ros-kinetic-depth-image-proc
+$ cd ~/catkin_ws/src/
+$ git clone https://github.com/jsk-ros-pkg/jsk_common.git
+$ catkin_ws && catkin_make
+```
+
+### 3. Download this repository code    
+```bash
+$ cd ~/catkin_ws/src/
+$ git clone --recursive https://github.com/minwoominwoominwoo7/darknet_ros.git
+$ git clone https://github.com/minwoominwoominwoo7/open_manipulator_potman.git
+$ catkin_ws && catkin_make
 ```
 
 ## First Phone Setting to voicecommand 
